@@ -10,7 +10,7 @@
 ⚡ Important fact: It’s all 0’s and 1’s.
 
 
-## 🌐 Contato:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eric.programador) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29513852) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/eric-amorim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eric@programador.dev.br) 
 
 # 💻 Tech Stack:
