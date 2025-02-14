@@ -1,9 +1,13 @@
-# 💫 Sobre:
-🔭 Atualmente estou trabalhando em meus próprios projetos como Engenheiro de Software;<br>
-👯 Procuro colaborar com a vasta comunidade tecnológica;<br>
-🌱 Estou constantemente aprimorando minhas habilidades como desenvolvedor;<br>
-💬 Estou sempre disponível para contato;<br>
-⚡ Fato importante: tudo são 0s e 1s.
+# 👨🏻‍💻 Services:
+🌎🇬🇧 You can hire me for a service by contacting me on any social media.<br>
+🇧🇷 🇵🇹 Você pode me contratar para um serviço entrando em contato por qualquer rede social.
+
+# 💫 About me:
+🔭 I’m currently working on my own projects as a Software Engineer;<br>
+👯 I’m looking to collaborate with the vast tech community;<br>
+🌱 I’m constantly improving my skills as a developer;<br>
+💬 I'm always available for contact;<br>
+⚡ Important fact: It’s all 0’s and 1’s.
 
 
 ## 🌐 Contato:
