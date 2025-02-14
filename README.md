@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on my own projects as a Software Engineer;<br>👯 I’m looking to collaborate to the vast tech community;<br>🌱 I’m constantly improving my skills as a developer;<br>💬 I'm always available for contact;<br>⚡ Important fact: It’s all 0’s and 1’s.
+# 💫 Sobre:
+🔭 Atualmente estou trabalhando em meus próprios projetos como Engenheiro de Software;
+👯 Procuro colaborar com a vasta comunidade tecnológica;
+🌱 Estou constantemente aprimorando minhas habilidades como desenvolvedor;
+💬 Estou sempre disponível para contato;
+⚡ Fato importante: tudo são 0s e 1s.
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eric.programador) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29513852) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/eric-amorim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eric@programador.dev.br) 
 
 # 💻 Tech Stack:
