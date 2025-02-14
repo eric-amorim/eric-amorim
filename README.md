@@ -1,8 +1,8 @@
 # 💫 Sobre:
-🔭 Atualmente estou trabalhando em meus próprios projetos como Engenheiro de Software;
-👯 Procuro colaborar com a vasta comunidade tecnológica;
-🌱 Estou constantemente aprimorando minhas habilidades como desenvolvedor;
-💬 Estou sempre disponível para contato;
+🔭 Atualmente estou trabalhando em meus próprios projetos como Engenheiro de Software;<br>
+👯 Procuro colaborar com a vasta comunidade tecnológica;<br>
+🌱 Estou constantemente aprimorando minhas habilidades como desenvolvedor;<br>
+💬 Estou sempre disponível para contato;<br>
 ⚡ Fato importante: tudo são 0s e 1s.
 
 
